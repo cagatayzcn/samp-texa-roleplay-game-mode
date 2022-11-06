@@ -17,3 +17,11 @@ You can send an e-mail for the places you hang out or you can reach me at my Dis
 Mail: cagatayozcank41@gmail.com
 Discord: Texa#1195
 
+YouTube Video Links:
+- https://www.youtube.com/watch?v=A57DTQNxkt0
+- https://www.youtube.com/watch?v=DbFXzDSbqQU
+- https://www.youtube.com/watch?v=E-UoJwn5x7I
+- https://www.youtube.com/watch?v=r3w8TqJUzeg
+- https://www.youtube.com/watch?v=CMmv4u4IwsA
+- https://www.youtube.com/watch?v=G5ZIS_VbDFs
+- https://www.youtube.com/watch?v=ViKXaZXBaDM
