@@ -4,7 +4,7 @@ San Andreas Multiplayer roleplay server game mode.
 Hi, this is a samp roleplay game mod file. The mod is designed for Turkish language. The mod is quite dynamic and most things have been fixed. I hope you can set up the server you want thanks to this mod. Good luck to everyone so far.
 
 Installation Steps
-- First download the files from the link. - 
+- First download the files from the link. - https://github.com/cagatayzcn/samp-texa-roleplay-game-mode/releases/tag/roleplay
 - Install Xampp. 
 - Create MySQL database. ( Make database name samp. )
 - Import the samp.sql file in the downloaded files to the database(samp).
